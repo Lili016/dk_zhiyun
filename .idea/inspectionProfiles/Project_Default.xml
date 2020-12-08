@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="flask.app.Flask.db" />
+          <option value="backend.TEMPLATE_FOLDER" />
+          <option value="config.TEMPLATE_FOLDER" />
+          <option value="backend.verifications.views.registerAPI" />
+          <option value="libs.redis_conn.redis_munch" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
